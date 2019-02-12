@@ -1,0 +1,11 @@
+name: "serialize"
+author: "noomlib"
+
+version: "0.0.1"
+repository: "github://noomlib/noomlib-serialize"
+
+projectBuilds: 
+	"noomlib/serialize/exports": "noomlib_serialize"
+
+Packager:
+	targetPlatform: "lua"
